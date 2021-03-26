@@ -21,4 +21,5 @@ Servo Motor: The brown cable is connected to ground on the breadboard, the red i
 ## How To Run (Step by Step):
 ### ESP32 code<br />
 To run wirelessly, enter your wifi name and password and change the UNI in address to your own.<br/>
-Upload the .ino file to your ESP32 (or other micro controller). 
+Upload the .ino file to your ESP32 (or other micro controller).<br/>
+Go to the 165.227.76.232:3000/YOUR-UNI address and press the button for it to run.
