@@ -8,9 +8,9 @@ This project is an arm that *attempts* to play Mary Had A Little Lamb on the wat
 
 ### Hardware
 - ESP32
-- Servo Motor
-- Stepper Motor
-- Stepper Motor Driver
+- SG90 Tower Pro MicroServo
+- 28BYJ-48 Step Motor
+- ULN2003 Stepper Motor Driver
 - wires
 - battery
 
