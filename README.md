@@ -1,1 +1,24 @@
 # CESProj4
+
+This project is an arm that *attempts* to play Mary Had A Little Lamb on the water glasses.
+
+## What You Need 
+### Software
+- Arduino IDE<br />
+
+### Hardware
+- ESP32
+- Servo Motor
+- Stepper Motor
+- Stepper Motor Driver
+- wires
+- battery
+
+### Connections:
+Stepper Motor/Driver: The power and ground are connected to 5V power and ground on the breadboard. In 1 is connected to GPIO 14, In 2 to GPIO 27, In 3 to 26 and In 4 to 25. <br/>
+Servo Motor: The brown cable is connected to ground on the breadboard, the red is connected to 5V on the breadboard and the orange is connected to GPIO 15 .<br/>
+
+## How To Run (Step by Step):
+### ESP32 code<br />
+To run wirelessly, enter you wifi name and password and change the UNI in address to your own.
+Upload the .ino file to your ESP32 (or other micro controller). 
